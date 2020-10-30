@@ -1,4 +1,4 @@
-# Virtual-Rehab
+# AR-Physiotherapy
 A body-position tracking software using computer vision to gamify rehab and help stroke patients specifically recover faster.
 
 ## You Can Play it Here https://editor.p5js.org/shubh90/sketches/4W1JRsdIV
